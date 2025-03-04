@@ -1,5 +1,7 @@
 # Array Algorithms in Processing
 ## 2-Hour Class Curriculum
+# Array Algorithms in Processing
+## 2-Hour Class Curriculum
 
 ### Overview
 This session focuses on common array algorithms that frequently appear in AP Computer Science A Free Response Questions (FRQs). Students will learn to implement and apply these algorithms using the Processing programming language.
